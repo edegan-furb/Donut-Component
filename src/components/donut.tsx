@@ -81,7 +81,7 @@ const DonutAnimation: React.FC = () => {
 
   return (
     <canvas
-      className="rounded-3xl border-4 border-dashed border-yellow-300 bg-stone-950"
+      className="rounded-3xl border-4 border-solid border-yellow-300 border-opacity-80 bg-gray-950 hover:border-double"
       ref={canvasRef}
       id="canvasdonut"
       width={320}
