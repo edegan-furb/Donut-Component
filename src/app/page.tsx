@@ -7,7 +7,7 @@ export default function Home() {
         <h1 className="absolute left-48 top-52 text-5xl font-bold">
           Donut Component ---{'>'}
         </h1>
-        <div className="absolute -top-4 right-64">
+        <div className="absolute right-80 top-24">
           <Donut />
         </div>
       </div>

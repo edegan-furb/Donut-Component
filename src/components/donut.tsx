@@ -44,8 +44,8 @@ const DonutAnimation: React.FC = () => {
         const x = ox * (cB * cp + sA * sB * sp) - oy * cA * sB
         const y = ox * (sB * cp - sA * cB * sp) + oy * cA * cB
         const ooz = 1 / (K2 + cA * ox * sp + sA * oy)
-        const xp = 320 + K1 * ooz * x
-        const yp = 240 - K1 * ooz * y
+        const xp = 160 + K1 * ooz * x
+        const yp = 120 - K1 * ooz * y
 
         const L =
           0.7 *
@@ -80,7 +80,13 @@ const DonutAnimation: React.FC = () => {
   }, [canvasframe])
 
   return (
-    <canvas ref={canvasRef} id="canvasdonut" width={640} height={480}></canvas>
+    <canvas
+      className="rounded-3xl border-4 border-dashed border-yellow-300 bg-stone-950"
+      ref={canvasRef}
+      id="canvasdonut"
+      width={320}
+      height={240}
+    ></canvas>
   )
 }
 
