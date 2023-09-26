@@ -1,4 +1,7 @@
 # This is a React Component of a Donut 
+<a href="https://www.a1k0n.net/2011/07/20/donut-math.html">
+Source --&gt; a1k0n
+</a>
 ### Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="45" height="45"/>&nbsp;
