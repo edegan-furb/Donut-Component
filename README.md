@@ -1,7 +1,10 @@
 # This is a React Component of a Donut 
 <p>
+  <a>
+    Source:
+  </a>
 <a href="https://www.a1k0n.net/2011/07/20/donut-math.html">
-Source ➡️ a1k0n
+ a1k0n
 </a>
 <p>
 ### Languages and Tools :
