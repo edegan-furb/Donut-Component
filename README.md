@@ -2,6 +2,7 @@
   <h1>Donut Component</h1>
   <p>
     This is a React Component of a Donut 
+    <br/>
   <a>
     Source:
   </a>
