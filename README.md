@@ -2,8 +2,6 @@
   <h1>Donut Component</h1>
   <p>
     This is a React Component of a Donut 
-  </p>
-  <p>
   <a>
     Source:
   </a>
@@ -12,17 +10,17 @@
   </a>
 <p>
   <p>
-  <a href="https://github.com/edegan-furb/Auth-Google/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/edegan-furb/Auth-Google" alt="contributors" />
+  <a href="https://github.com/edegan-furb/Donut-Component/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/edegan-furb/Donut-Component" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/edegan-furb/Donut-Component" alt="last update" />
   </a>
-  <a href="https://github.com/edegan-furb/Auth-Google/network/members">
-    <img src="https://img.shields.io/github/forks/edegan-furb/Auth-Google" alt="forks" />
+  <a href="https://github.com/edegan-furb/Donut-Component/network/members">
+    <img src="https://img.shields.io/github/forks/edegan-furb/Donut-Component" alt="forks" />
   </a>
-  <a href="https://github.com/edegan-furb/Auth-Google/stargazers">
-    <img src="https://img.shields.io/github/stars/edegan-furb/Auth-Google" alt="stars" />
+  <a href="https://github.com/edegan-furb/Donut-Component/stargazers">
+    <img src="https://img.shields.io/github/stars/edegan-furb/Donut-Component" alt="stars" />
   </a>
 </p>
 <p>
