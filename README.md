@@ -32,14 +32,3 @@
 </p>
 </div>
 
-
-
-
-
-
-
-# This is a React Component of a Donut 
-
-  
-### Languages and Tools :
-
