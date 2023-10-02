@@ -3,7 +3,7 @@
   <p>
     This is a React Component of a Donut 
     <br/>
-  <a>
+  <a align="right">
     Source:
   </a>
   <a href="https://www.a1k0n.net/2011/07/20/donut-math.html">
